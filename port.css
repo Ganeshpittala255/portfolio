@@ -35,6 +35,7 @@ body,html{
     width: 80px;
     height: 80px;
     border-radius: 100%;
+    flex-wrap: wrap;
 
 }
 
@@ -55,6 +56,7 @@ body,html{
     color: aqua;
     background-color: black;
     margin-top: -40px;
+    flex-wrap: wrap;
     
 
 }
@@ -63,13 +65,14 @@ img{
     height: 200px;
     width: 200px;
     border-radius: 100%;
+    flex-wrap: wrap;
 }
 h1{
-    color: cornsilk;
+    color: cornsilk;flex-wrap: wrap;
 
 }
 P{
-    color: blueviolet;
+    color: blueviolet;flex-wrap: wrap;
 }
 /* about */
 #About{
@@ -84,16 +87,16 @@ P{
 
         h1{
 
-            color: brown;
+            color: brown;flex-wrap: wrap;
         }
         h4{
             font-size: 40px;
             color: crimson;
-            flex-wrap: wrap;
+            flex-wrap: wrap;flex-wrap: wrap;
 
         }
         a{
 
-            text-decoration: none;
+            text-decoration: none;flex-wrap: wrap;
             
         }
